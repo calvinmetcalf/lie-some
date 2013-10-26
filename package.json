@@ -1,6 +1,6 @@
 {
   "name": "lie-some",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "lie some why don't you",
   "main": "lib/some.js",
   "scripts": {
@@ -33,6 +33,7 @@
     "lie": "~2.0.6",
     "lie-cast": "~0.1.1",
     "lie-quickeach": "~0.1.1",
-    "lie-quickmap": "~0.1.0"
+    "lie-quickmap": "~0.1.0",
+    "lie-use": "~0.1.0"
   }
 }
